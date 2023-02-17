@@ -6,11 +6,11 @@ const readLine = require('readline-sync');
 //     x++;
 // }
 
-// let y = 0;
-// while (y<11){
-//     y++;
-//     console.log(y);
-// }
+let y = 0;
+while (y<11){
+    y++;
+    console.log(y);
+}
 
 // let z = 10
 // while (z>5){
@@ -24,12 +24,12 @@ const readLine = require('readline-sync');
 //     w++;
 // }
 
-let start = 0
-while (start<=100){
-    if (start < 10){
-        console.log(start);
-    }else if (start > 25){
-        console.log(start);
-    }
-    start++;
-}
+// let start = 0
+// while (start<=100){
+//     if (start < 10){
+//         console.log(start);
+//     }else if (start > 25){
+//         console.log(start);
+//     }
+//     start++;
+// }
